@@ -117,16 +117,6 @@ footer {
     color: #0056b3;
     cursor: pointer;
 }
-/* Responsive Design Adjustments */
-@media screen and (max-width: 768px) {
-    #services, #about, #contact {
-        text-align: center;
-    }
 
-    #services ul {
-        list-style-type: none;
-        padding: 0;
-    }
-}
 
 
